@@ -5,8 +5,6 @@
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
@@ -42,6 +40,8 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+*.psd
+
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -54,6 +54,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
 
 # Crashlytics generated file
 crashlytics-build.properties
